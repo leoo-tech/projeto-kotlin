@@ -1,0 +1,50 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android/IntelliJ
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+
+# Crashlytics/Fabric
+fabric.properties
+crashlytics-build.properties
+
+# Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+.idea/
+
+# Local config
+local.properties
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Kotlin/Java
+*.iml
+
+# NDK
+obj/
+
